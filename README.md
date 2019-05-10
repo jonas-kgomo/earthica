@@ -1,4 +1,4 @@
-# Ethica
+# Earthica
 Location-based live events, jobs, news and other things happening around you. 
 ## Be where its at
 ### Events
